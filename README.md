@@ -1,5 +1,55 @@
-# 💫 About Me:
-👋 Hey, I'm Sameer<br><br>🚀 Full-Stack Developer | Backend Specialist | AI/ML Enthusiast<br><br>I build scalable, production-ready applications with a strong focus on backend architecture and performance.<br>My core expertise lies in Java & Spring Boot, where I design secure APIs, optimize databases, and architect systems that scale.<br><br>From crafting responsive frontends to engineering robust backend systems, I enjoy building complete, end-to-end solutions that solve real-world problems.<br><br>💻 What I Do<br><br>🔹 Design and develop scalable backend systems using Java & Spring Boot<br>🔹 Build RESTful APIs with authentication, security & performance optimization<br>🔹 Develop full-stack applications with modern frontend frameworks<br>🔹 Apply AI/ML concepts to build intelligent and data-driven features<br>🔹 Write clean, maintainable, and production-ready code<br><br>🧠 Tech Focus<br><br>Backend:<br>Java • Spring Boot • REST APIs • Microservices • Authentication • System Design<br><br>Frontend:<br>React • JavaScript • Responsive UI<br><br>Database:<br>MySQL • PostgreSQL • MongoDB<br><br>AI/ML:<br>Machine Learning fundamentals • Model integration • Data-driven application logic<br><br>⚡ What Makes Me Different<br><br>Backend-first mindset with full-stack capability<br><br>Strong problem-solving foundation (600+ DSA problems solved)<br><br>Focus on scalability, clean architecture, and performance<br><br>Constant learner exploring System Design & AI integration<br><br>🎯 Current Goal<br><br>Building impactful software systems that combine robust backend engineering with intelligent AI-driven solutions.
+# 💫 About Me
+
+## 👋 Hey, I'm Sameer  
+### 🚀 Full-Stack Developer | Backend Specialist | AI/ML Enthusiast  
+
+---
+
+I build scalable, production-ready applications with a strong focus on backend architecture and performance.  
+My core expertise lies in **Java & Spring Boot**, where I design secure APIs, optimize databases, and architect systems that scale.
+
+From crafting responsive frontends to engineering robust backend systems, I enjoy building complete, end-to-end solutions that solve real-world problems.
+
+---
+
+## 💻 What I Do
+
+- 🔹 Design and develop scalable backend systems using **Java & Spring Boot**
+- 🔹 Build RESTful APIs with authentication, security & performance optimization
+- 🔹 Develop full-stack applications with modern frontend frameworks
+- 🔹 Apply AI/ML concepts to build intelligent and data-driven features
+- 🔹 Write clean, maintainable, and production-ready code
+
+---
+
+## 🧠 Tech Focus
+
+### 🔹 Backend
+`Java` • `Spring Boot` • `REST APIs` • `Microservices` • `Authentication` • `System Design`
+
+### 🔹 Frontend
+`React` • `JavaScript` • `Responsive UI`
+
+### 🔹 Database
+`MySQL` • `PostgreSQL` • `MongoDB`
+
+### 🔹 AI/ML
+Machine Learning fundamentals • Model integration • Data-driven application logic
+
+---
+
+## ⚡ What Makes Me Different
+
+- Backend-first mindset with full-stack capability  
+- Strong problem-solving foundation (600+ DSA problems solved)  
+- Focus on scalability, clean architecture, and performance  
+- Constant learner exploring System Design & AI integration  
+
+---
+
+## 🎯 Current Goal
+
+Building impactful software systems that combine robust backend engineering with intelligent AI-driven solutions.
 
 
 ## 🌐 Socials:
